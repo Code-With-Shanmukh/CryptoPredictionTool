@@ -45,8 +45,5 @@ Red warning → Significant price drop detected
 🔹 Advanced deep learning architectures
 🔹 Web-based version using Flask/Django
 
-📜 License
-This project is licensed under the MIT License.
-
 🤝 Contributing
 Pull requests are welcome! If you find an issue, open a GitHub issue.
